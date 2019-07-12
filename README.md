@@ -1,0 +1,2 @@
+# lt-terracoin
+terracoin translation
